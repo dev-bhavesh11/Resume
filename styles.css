@@ -1,0 +1,22 @@
+.title{
+    margin:0%;
+    font-size:larger;
+    font-weight:bolder;
+}
+hr{
+    height:0.5px;
+    border-width:0;
+    color:black;
+    background-color:black;
+    margin: 0.1%;
+}
+
+table{
+    width:100%;
+}
+td{
+    padding:10px;
+}
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
